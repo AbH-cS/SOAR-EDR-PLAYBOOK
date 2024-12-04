@@ -41,16 +41,15 @@ This SOAR (Security Orchestration, Automation, and Response) EDR (Endpoint Detec
 
 ## 📦 Prerequisites ##
 
-<br>- Cybersecurity knowledge.
-<br>- Python programming skills.
+<br>- Cybersecurity knowledge
 <br>- Understanding of network security and threat detection.
 
 ## 🚦 Getting Started ##
 
 <br>- Clone the repository.
 <br>- Install required dependencies.
-<br- >Configure tool integrations.
-<br- >Run and test the system.
+<br>- Configure tool integrations.
+<br>- Run and test the system.
 
 ## 🤝 Contributions ##
 Contributions, issues, and feature requests are welcome!
