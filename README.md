@@ -1,4 +1,8 @@
 # SOAR EDR Playbook: Advanced Cybersecurity Incident Response Automation #
+
+<img width="420" alt="Pasted image 20241204171437" src="https://github.com/user-attachments/assets/197c97e6-ccf8-42a5-8dd8-6bd969679306">
+
+
 ## 🛡️ Project Overview ##
 This SOAR (Security Orchestration, Automation, and Response) EDR (Endpoint Detection and Response) Playbook is a cutting-edge cybersecurity solution designed to streamline and enhance incident response processes. By integrating powerful tools like LimaCharlie, Tines, Slack, and email notifications, this project offers a comprehensive approach to threat detection, isolation, and communication.
 ## 🚀 Key Features ##
