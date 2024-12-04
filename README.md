@@ -45,7 +45,7 @@ Cybersecurity knowledge
 Python programming skills
 Understanding of network security and threat detection
 
-##🚦 Getting Started ##
+## 🚦 Getting Started ##
 
 Clone the repository
 Install required dependencies
