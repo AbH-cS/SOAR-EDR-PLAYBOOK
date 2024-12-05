@@ -1,6 +1,6 @@
 # SOAR EDR Playbook: Advanced Cybersecurity Incident Response Automation #
 
-<img width="420" alt="Pasted image 20241204171437" src="https://github.com/user-attachments/assets/197c97e6-ccf8-42a5-8dd8-6bd969679306">
+<img width="433" alt="2024-12-05 10_37_18-Pasted image 20241204171437 png" src="https://github.com/user-attachments/assets/47968387-f0ed-4bb0-b927-b6500656671c">
 
 
 ## 🛡️ Project Overview ##
